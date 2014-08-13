@@ -2,9 +2,10 @@
 void main()
 {
 cout<<"welcome to Github";
-cout<<"sqaure"<<square(10.8);
+cout<<"square"<<square(10.8);
 
 cout<<"addition"<<add(4.0);
+cout<<"welcome to the world of maths";
 }
 
 double square(double in_num)
